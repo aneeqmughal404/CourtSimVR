@@ -28,6 +28,18 @@ CourtSimVR is an immersive Virtual Reality courtroom simulation that brings a re
 
 ---
 
+### 📸 Screenshots
+
+![Screenshot 1](Screenshots/IMG_01.png)
+
+![Screenshot 2](Screenshots/IMG_02.png)
+
+![Screenshot 3](Screenshots/IMG_03.png)
+
+![Screenshot 4](Screenshots/IMG_04.png)
+
+---
+
 ### 👨‍💻 Developer
 
 **Aneeq Mughal**
